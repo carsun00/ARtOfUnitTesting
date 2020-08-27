@@ -1,17 +1,14 @@
-﻿using CH3.LogAn.Interface;
+﻿using CH3._5.LogAn.InterFace;
 using System;
 
-namespace CH3.LogAn
+namespace CH3._5.LogAn.Model
 {
-    /// <summary>
-    ///     3.4.1 擷取介面更換底層內容 - 實作
-    /// </summary>
     class FileExtensionManager : IExtensionManager
     {
         public bool IsValid(string fileName)
         {
+            //  讀取檔案驗證
             throw new NotImplementedException();
         }
-
     }
 }

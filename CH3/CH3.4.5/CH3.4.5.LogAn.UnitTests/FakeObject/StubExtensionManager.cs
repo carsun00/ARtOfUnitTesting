@@ -1,8 +1,7 @@
-﻿using CH3.LogAn.Interface;
+﻿using CH3._4._5.LogAn.Interface;
 
-namespace CH3.LogAn.UnitTests.Stub
+namespace CH3._4._5.LogAn.UnitTests.FakeObject
 {
-
     /// <summary>
     ///     虛式常式
     ///         提供單元測試的狀態檢驗。

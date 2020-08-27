@@ -1,4 +1,4 @@
-﻿namespace CH3.LogAn.Interface
+﻿namespace CH3._4._6._1.LogAn.Interface
 {
     /// <summary>
     ///     3.4.1 擷取介面更換底層內容 - InterFace

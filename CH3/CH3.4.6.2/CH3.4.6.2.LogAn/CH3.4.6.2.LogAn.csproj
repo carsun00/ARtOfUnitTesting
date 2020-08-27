@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>CH3._4._6._2.LogAn</RootNamespace>
   </PropertyGroup>
 
 </Project>
